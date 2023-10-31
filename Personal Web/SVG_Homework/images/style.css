@@ -1,0 +1,24 @@
+img {
+  position: fixed;
+  right: 20%;
+  bottom: 0px;
+}
+
+body{
+
+  background-image: url('./images/background 2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.centered{
+
+  text-align: left;
+}
+
+.text{
+
+  color: purple;
+  font-family: 'Tilt Neon', sans-serif;
+  font-size: 8em ;
+}
